@@ -15,9 +15,9 @@ namespace client
         {
            SendData(input);
         }
-        
-        const string DEFAULT_SERVER = "127.0.0.1";
-        const int DEFAULT_PORT = 13000;
+
+        const string DEFAULT_SERVER = "google.com";
+        const int DEFAULT_PORT = 80;
 
 
         //Client socket 
