@@ -100,3 +100,37 @@ E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.5.8 másolata\Imag
 E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.5.8 másolata\Image Analysis\obj\Debug\BBImage Analysis.csproj.GenerateResource.Cache
 E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.5.8 másolata\Image Analysis\obj\Debug\Image Analysis.exe.manifest
 E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.5.8 másolata\Image Analysis\obj\Debug\Image Analysis.application
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\Image Analysis.exe.config
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image Analysis.exe
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\Image Analysis.exe.manifest
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\Image Analysis.application
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\Image Analysis.exe
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\Image Analysis.pdb
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Genetic.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Imaging.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Math.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Vision.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\log4net.dll
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Genetic.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Imaging.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Math.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\AForge.Vision.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\bin\Debug\log4net.xml
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\BBImage Analysis.csprojResolveAssemblyReference.cache
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image_Analysis.Form5.resources
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\BBImage Analysis.csproj.GenerateResource.Cache
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image Analysis.exe.manifest
+C:\Users\madla\Google Drive\TDK\Teszt\BB1.5.8\Image Analysis\obj\Debug\Image Analysis.application

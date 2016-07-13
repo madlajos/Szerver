@@ -24,6 +24,7 @@ namespace Image_Analysis
 {
     public partial class Form2 : Form
     {
+        client.ClientUtil clientUtil = new client.ClientUtil();
         public Form2()
         {
             InitializeComponent();
@@ -165,7 +166,7 @@ namespace Image_Analysis
 
             richTextBox3.Text += "\nNumber of crystals " + totalblobnumber;
             richTextBox3.Text += "\nAverage crystal diameter " + averageareablobd + " µm";
-
+            clientUtil.Send(averageareablobd.ToString());
             pictureBox1.Image = image;
             pictureBox1.Refresh();
 

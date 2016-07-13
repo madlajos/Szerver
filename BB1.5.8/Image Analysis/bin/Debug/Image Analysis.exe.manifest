@@ -126,14 +126,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Image Analysis.exe" size="42936">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Image Analysis.exe" size="43008">
       <assemblyIdentity name="Image Analysis" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cKne0fQaRBFrURbD/A164EfspnFPj3f14k+RNj6jgEQ=</dsig:DigestValue>
+        <dsig:DigestValue>MfYyjJmVHRvuY1xqr3d/s7eIPM2mXo2Mn4bI5+ozewg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
