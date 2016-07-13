@@ -1,0 +1,1017 @@
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\Image Analysis.exe.config
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\Image Analysis.exe
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\Image Analysis.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image Analysis.exe
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.Genetic.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.Imaging.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.Math.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.Genetic.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.Imaging.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\AForge.Math.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\log4net.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis\Image Analysis\bin\Debug\log4net.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\Image Analysis.exe.config
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image Analysis.exe
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\Image Analysis.exe
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\Image Analysis.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.Genetic.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.Imaging.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.Math.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\log4net.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.Genetic.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.Imaging.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\AForge.Math.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading\Image Analysis\bin\Debug\log4net.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\Image Analysis.exe.config
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image Analysis.exe
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\Image Analysis.exe
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\Image Analysis.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.Genetic.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.Imaging.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.Math.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\log4net.dll
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.Genetic.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.Imaging.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\AForge.Math.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\bin\Debug\log4net.xml
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+C:\Users\david.nagy\Documents\Visual Studio 2013\Projects\camera szoft\7 - merged\Image Analysis - threading - two image box\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\Image Analysis.exe.config
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image Analysis.exe
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\Image Analysis.exe
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\Image Analysis.pdb
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.dll
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.Genetic.dll
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.Imaging.dll
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.Math.dll
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\log4net.dll
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.xml
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.Genetic.xml
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.Imaging.xml
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\AForge.Math.xml
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\bin\Debug\log4net.xml
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+C:\Users\remote-user\Dropbox\Software\1 threading - two image box\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\1 threading - two image boxB\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókat értsd meg                       1 threading - two image boxB\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\mukodo hope nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata másolata\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\mukodo hope nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata másolata\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\mukodo hope nagyoncsupassz váltózókon próbálgatás                       1 threading - two image boxB másolata másolata\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\hope másolata\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol fejleszt\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\színez és megszámol és nagyobb mint visszamenofejleszt\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\ezleszaz fejleszd\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 átírok mindent doublere\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.1 pixel átváltás másolata alias BB1.2volt fejleszt\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.1 fejleszt\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogramozik bimaap\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.2\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.2. hisztogram teljes lesz.3 másolata másolata\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. röviditett\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array gond\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók másolata csak próbi array mukszik másolata\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.3. átdolgozva a változók sok big small kiszed m nincs értelme\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.4. nobigsmall mostcommonmukszik fejleszt\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\Image Analysis.exe.manifest
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\Image Analysis.application
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\Image Analysis.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Genetic.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Imaging.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Math.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Vision.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\log4net.dll
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Genetic.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Imaging.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Math.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\AForge.Vision.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Debug\log4net.xml
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image Analysis.exe.manifest
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Debug\Image Analysis.application
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.exe
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe.config
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.exe
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe.manifest
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.application
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.pdb
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Genetic.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Math.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Vision.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\log4net.dll
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Genetic.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Math.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Vision.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\log4net.xml
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.exe.manifest
+C:\Users\madla\Desktop\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.application
+J:\TDK\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe.config
+J:\TDK\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.exe
+J:\TDK\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe.config
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.exe
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.pdb
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe.manifest
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.application
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.exe
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Image Analysis.pdb
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Genetic.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Math.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Vision.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\log4net.dll
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Genetic.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Math.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\AForge.Vision.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Jai_FactoryDotNET.pdb
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\Jai_FactoryDotNET.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\bin\Debug\log4net.xml
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.csprojResolveAssemblyReference.cache
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form1.resources
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form2.resources
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form3.resources
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Form4.resources
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image_Analysis.Properties.Resources.resources
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.csproj.GenerateResource.Cache
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.exe.manifest
+C:\Users\madla\Google Drive\TDK\BB1.2.5 to send\Image Analysis\obj\Debug\Image Analysis.application

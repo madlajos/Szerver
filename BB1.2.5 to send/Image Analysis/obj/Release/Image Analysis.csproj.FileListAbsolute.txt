@@ -1,0 +1,8 @@
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\bin\Release\Image Analysis.exe.config
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Release\Image Analysis.csprojResolveAssemblyReference.cache
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Release\Image_Analysis.Form1.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Release\Image_Analysis.Form2.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Release\Image_Analysis.Form3.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Release\Image_Analysis.Form4.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Release\Image_Analysis.Properties.Resources.resources
+E:\BME deluxe edition\Lö labor MSC\SZoftververziók\neww\BB1.2.5\Image Analysis\obj\Release\Image Analysis.csproj.GenerateResource.Cache
